@@ -1,4 +1,4 @@
-# 🦊 GitLab with 🐳Docker Registry Installation on Debian13 Family.
+# 🦊 GitLab with 🐳Docker Registry
 Git repo + Docker Image registry
 Here are the complete steps to install GitLab on Debian, configured specifically for **minimal RAM usage** while keeping the **Git repository** and **Docker Container Registry** fully functional.
 
